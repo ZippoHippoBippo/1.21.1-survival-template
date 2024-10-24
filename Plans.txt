@@ -1,0 +1,19 @@
+A simple template which can be easily rolled out to new servers reducing the time to get off the ground and increase time spent doing the interesting stuff. 
+
+--------------------
+plugins included:
+
+- EssentialsX - github.com/EssentialsX/Essentials
+-EssentialsChat - 
+- Vault - 
+-RoseGarden - github.com/Rosewood-Development/RoseGarden
+- BungeeCord
+-Waterfall
+- TAB
+- Luckperms
+- Deluxemenus
+-DeluxeTags
+- FAWE
+-WorldGuard
+
+
